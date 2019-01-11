@@ -1,0 +1,31 @@
+# Project Title
+Real Estate "Hot or Not"
+
+## Team Members
+Lori Harris
+Brianna McKelvey
+Rachel Powell
+Joseph Robbins
+Sam Schlunz
+
+### Project Description/Outline
+Explore real estate data for information on homebuying/rental activity
+
+####Research Questions to Answer
+Income vs. property values
+Mortgage rates vs. rental rates; Mortgage rates vs. prices
+Demographics of home buyers
+Desirable cities (based "hotness rating")
+Using the affordability rating tiers to see changes over time
+
+###Data sets to be Used
+Zillow
+Realtor.com
+maybe more?
+Google API
+
+##Rough Breakdown of Tasks
+1. Explore existing data sets and identify key variables for analysis
+    a. Utilize documentation available
+    b. Consider if more/different data sources needed
+2. Better refine research questions based on available data
