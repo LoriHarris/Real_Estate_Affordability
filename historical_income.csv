@@ -1,5 +1,5 @@
 Year,"Number
-(thousands)",Per capita income,"2017, adusted income"
+(thousands)",Per Capita Income,Per Capita Adjusted for 2017 USD
 2017,"323,156","34,489","34,489"
 2016,"320,372","33,205","33,919"
 2015,"318,868","31,653","32,751"
@@ -53,4 +53,3 @@ Year,"Number
 1968,"200,139","2,731","16,911"
 1967 (12),"198,120","2,464","15,856"
 "Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplements.  For information on confidentiality protection, sampling error, nonsampling error, and definitions, see //www2.census.gov/programs-surveys/cps/techdocs/cpsmar18.pdf",,,
-,,,
