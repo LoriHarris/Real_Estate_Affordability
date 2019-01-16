@@ -1,0 +1,13 @@
+DATA IS ONLY FOR FREDDIE MAC AND MAE
+
+average age of home buyers: 46.48361977770664
+average age of first time home buyers: 36.42152362556167
+
+females: 1110531
+males: 2326235
+
+average income: $110,800
+
+conventional: 3702938
+FHA: 210
+VA: 106 

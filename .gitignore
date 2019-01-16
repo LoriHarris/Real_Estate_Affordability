@@ -91,6 +91,7 @@ env.bak/
 venv.bak/
 api_keys.py
 config.py
+Data_files/.
 
 # Spyder project settings
 .spyderproject
