@@ -1,0 +1,51 @@
+CityName,Cloudiness,Date,Humidity,Lat,Lng,Max Temp,Wind Speed
+Atlanta - Sandy Springs - Alpharetta,90,1547766900,100,33.7491,-84.3902,46.94,4.7
+Austin - Round Rock - Georgetown,1,1547765760,39,30.2711,-97.7437,73.94,3.36
+Baltimore - Columbia - Towson,90,1547767380,65,39.2909,-76.6108,37.04,4.27
+Birmingham - Hoover,90,1547766900,92,33.5207,-86.8025,50,5.82
+Boston - Cambridge - Newton,40,1547765760,33,42.3603,-71.0583,26.06,5.82
+Buffalo - Cheektowaga,75,1547766000,62,42.8867,-78.8784,28.94,6.93
+Charlotte - Concord - Gastonia,90,1547766900,88,35.2271,-80.8432,46.4,4.7
+Chicago - Naperville - Elgin,90,1547766900,92,41.8756,-87.6245,35.06,3.36
+Cincinnati,90,1547766960,98,39.1015,-84.5125,39.02,4.7
+Cleveland - Elyria,90,1547767680,88,41.5052,-81.6935,32,9.17
+Columbus,90,1547766900,96,32.461,-84.9878,57.02,1.36
+Dallas - Fort Worth - Arlington,1,1547766900,64,32.7763,-96.7969,57.92,5.82
+Denver - Aurora - Lakewood,1,1547766900,42,39.7392,-104.9848,53.24,3.87
+Detroit - Warren - Dearborn,90,1547767200,92,42.3487,-83.0568,30.92,4.7
+Hartford - East Hartford - Middletown,20,1547765760,39,41.7645,-72.6909,26.6,3.53
+Houston - The Woodlands - Sugar Land,1,1547766900,68,29.7589,-95.3677,69.08,6.93
+Indianapolis - Carmel - Anderson,90,1547767020,96,39.7683,-86.1584,37.4,8.05
+Jacksonville,1,1547766900,58,30.3322,-81.6557,59,2.71
+Kansas City,90,1547766900,91,39.0845,-94.5631,35.06,3.87
+Las Vegas - Henderson - Paradise,90,1547766900,82,36.1663,-115.1493,62.96,8.05
+Los Angeles - Long Beach - Anaheim,90,1547766600,100,34.0549,-118.2445,64.04,9.17
+Louisville/Jefferson County,90,1547766960,85,38.2542,-85.7595,46.04,6.93
+Memphis,90,1547767920,100,35.149,-90.0517,55.04,6.22
+Miami - Fort Lauderdale - Pompano Beach,75,1547765580,70,25.7743,-80.1937,71.96,6.93
+Milwaukee - Waukesha,90,1547766900,91,43.035,-87.9225,35.06,5.82
+Minneapolis - St. Paul - Bloomington (Twin Cities),1,1547766960,67,44.9773,-93.2655,21.56,6.93
+Nashville-Davidson - Murfreesboro - Franklin,90,1547766900,100,36.1622,-86.7744,46.4,3.36
+New Orleans - Metairie,75,1547766900,87,29.9499,-90.0702,67.64,8.05
+New York - Newark - Jersey City,1,1547767620,56,40.7306,-73.9867,32,4.54
+Oklahoma City,1,1547767200,70,35.473,-97.5171,50.9,4.7
+Orlando - Kissimmee - Sanford,75,1547765760,60,28.5421,-81.3791,69.08,4.7
+Philadelphia - Camden - Wilmington,90,1547768100,60,39.9524,-75.1636,32,3.36
+Phoenix - Mesa - Chandler,90,1547766900,52,33.4486,-112.0774,68,2.59
+Pittsburgh,90,1547766540,100,40.4417,-79.9901,30.2,4.7
+Portland - Vancouver - Hillsboro,90,1547765760,56,45.5202,-122.6742,53.96,25.28
+Providence - Warwick,1,1547765760,37,41.824,-71.4129,28.4,3.36
+Raleigh - Cary,90,1547766600,75,35.7804,-78.6391,48.74,4.09
+Richmond,1,1547768100,62,49.1633,-123.137,53.96,14.99
+Riverside - San Bernardino - Ontario (Inland Empire),90,1547766900,89,33.9534,-117.3962,62.96,16.11
+Sacramento - Roseville - Folsom,90,1547766900,67,38.5816,-121.4944,59,21.92
+Salt Lake City,90,1547766900,64,40.767,-111.8905,39.02,13.87
+San Antonio - New Braunfels,0,1547766000,77,-33.5809,-71.6133,68,4.7
+San Diego - Chula Vista - Carlsbad,90,1547767080,92,32.7174,-117.1628,62.96,11.41
+San Francisco - Oakland - Berkeley,90,1547766900,64,37.7793,-122.4193,60.8,10.29
+San Jose - Sunnyvale - Santa Clara,64,1547768054,78,15.7917,120.9891,71.3,5.77
+Seattle - Tacoma - Bellevue,90,1547766900,54,47.6038,-122.3301,55.94,13.87
+St. Louis,90,1547767560,93,38.6273,-90.1979,40.64,4.7
+Tampa - St. Petersburg - Clearwater (Tampa Bay Area),90,1547768100,67,27.9478,-82.4585,68,3.36
+Virginia Beach - Norfolk - Newport News (Hampton Roads),90,1547765940,67,36.853,-75.9775,43.16,5.82
+Washington - Arlington - Alexandria,90,1547767980,69,38.895,-77.0367,37.94,3.36
