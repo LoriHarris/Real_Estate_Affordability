@@ -1,5 +1,9 @@
-# Project
-our first group project for bootcamp
+# Demographics Scope
+What makes up the average mortgage payer in America?
+
+To find out - examine income, employment and education statistics.  
+Plot said statistics against affordability tiers from Zillow CSV.
+Examine for trends.
 
 # Info for the labor stats CSV
 Labor Force Statistics from the Current Population Survey					
