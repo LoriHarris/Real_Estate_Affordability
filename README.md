@@ -1,7 +1,4 @@
 # Project
-our first group project for bootcamp
-
-# Project Title
 Affordability of Real Estate 1999-2020
 
 ## Team Members
