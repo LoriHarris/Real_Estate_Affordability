@@ -1,5 +1,5 @@
 # Project
-Affordability of Real Estate 1999-2020
+Affordability of Real Estate 1999-2019
 
 ## Team Members
 Lori Harris
